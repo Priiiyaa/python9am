@@ -22,8 +22,39 @@
 
 # print('mother\'s')
 # print("mother's")
+#
+# x=25j
+# y=15
+# # print(x>y)
+# print(type(x))
+# print(type(y))
 
+# # print('navin\'s "laptop"')
+# x=10
+# y=20
+# print(x>y)
+#
+# data=['ram',123,'hari']
+# print(data[0])
 
-# Sp=int(input("enter s.p:"))
-# Cp=int(input("enter c.p:"))
-# print({(Sp-Cp)/100})
+# data={'name':'priya','age':'12'}
+# print(data['name'])
+# data=[
+#     {'name':'ram','age':20},
+#     {'name':'sita','age':25}
+# ]
+# # print(data[1]['name'])
+# print(f"name:{data[1]['name']},age:{data[1]['age']}")
+# x=2
+# y=10
+# print(x+y)
+# print(x-y)
+# print(x*y)
+# print(x/y)
+# x=2
+# x+=4
+# x=10
+# x-=5
+# print(x)
+x=True
+print(not x)
